@@ -1,0 +1,8 @@
+name: Projeto
+main: me.projeto.Projeto
+version: 1.0
+author: Ian
+description: Um plugin explicando o básico
+commands:
+  ajuda:
+    aliases: helpme
